@@ -6,3 +6,10 @@ int main() {
    return 0;
 }
 this program is tested and it was success
+
+
+
+
+hi 
+hi i
+
